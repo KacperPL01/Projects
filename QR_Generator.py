@@ -1,3 +1,4 @@
+#You need install pyqrcode, use this in cmd "pip install pyqrcode"
 import pyqrcode
 
 data = input("Enter the text or link to generate QR code: ")
