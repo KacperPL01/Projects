@@ -1,2 +1,2 @@
 # Projects
-This is for my Python projects!
+This is for my Python text projects!
